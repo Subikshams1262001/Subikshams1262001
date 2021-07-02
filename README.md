@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Subiksha M S</h1>
+<h1 align="center">Hi 👋, Here is What I'm Working On!</h1>
 
 <h3 align="center">👨‍💻 A budding Web developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
 
-- 🎓 I’m a CSE student at **GCT,Coimbatore of batch 2023.**
+- 🎓 I’m **Subiksha M S** ,a CSE student at **GCT,Coimbatore of batch 2023.**
 
 
 - 🌱 I’m currently learning **Front end development at Spotknack Mission 2021.**
 
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development.**
 
 
 
