@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +20,7 @@
 <h3>Connect Through</h3>
 
   
-  <a href="https://www.linkedin.com/in/subiksha-m-s-a978171b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCKf336%2FNQ%2BSa%2Fy%2BS3rJpSQ%3D%3D">
+  <a href="https://www.linkedin.com/in/subiksha-m-s-a978171b0/">
    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/ align="left">
   </a> 
  <a href="mailto:subikshams2001@gmail.com.com"><img src="https://static.javatpoint.com/computer/images/e-mail.png"/ width="30px"> 
