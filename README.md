@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subiksha M S</h1>
 <h3 align="center">CSE student from GCT,Coimbatore of batch 2023.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
 
 - 🌱 I’m currently learning **Front end development at Spotknack Mission 2021.**
 
