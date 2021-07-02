@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Here is What I'm Working On!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Here is What I'm Working On!</h1>
 
 <h3 align="center">👨‍💻 A budding Web developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
