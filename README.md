@@ -20,9 +20,9 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 <h3>Click Here to see my Works</h3>
 <ul>
-  <li><a href="https://serene-booth-d45bba.netlify.app/">Hotstar AboutPage</a></li>
-  <li><a href="https://sharp-mccarthy-2516c9.netlify.app/">Hotstar Subscribe Page </a></li> 
-  <li><a href="https://relaxed-mahavira-5d62f1.netlify.app/">Hotstar Home</a> </li> 
+  <li><a href="https://vigorous-bassi-8dc97e.netlify.app/">Tesla clone</a></li>
+  <li><a href="https://wizardly-cray-36417b.netlify.app/">Weather app</a></li> 
+  <li><a href="https://serene-goldberg-f8b619.netlify.app/">Hotstar clone</a> </li> 
  </ul>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subikshams1262001&show_icons=true&locale=en&layout=compact" alt="subikshams1262001" /></p>
 <h3>Connect me through</h3>
